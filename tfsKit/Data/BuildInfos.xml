@@ -15,9 +15,9 @@
 		<CodeCoverageThreshold>60</CodeCoverageThreshold>
 		<Recipients>
 			<SendTo>armand.lacore@soat.fr</SendTo>
-			<SendTo>armand.lacore@soat.fr</SendTo>	
-			<SendTo>armand.lacore@soat.fr</SendTo>	
-			<SendTo>armand.lacore@soat.fr</SendTo>	
+			<SendTo>scrum.master@soat.fr</SendTo>	
+			<SendTo>project.director@soat.fr</SendTo>	
+			<SendTo>architect@soat.fr</SendTo>	
 		</Recipients>
 	</Build>
 	<Html>
